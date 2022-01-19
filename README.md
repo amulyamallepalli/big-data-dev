@@ -14,6 +14,7 @@ I would like to work as a software developer. Something interesting about me is 
 ## Links
 [Github](https://github.com/amulyamallepalli) 
 
+## Me
 ![Image](https://github.com/amulyamallepalli/big-data-dev/blob/main/Amulya%20Image.jpg) 
 
 
