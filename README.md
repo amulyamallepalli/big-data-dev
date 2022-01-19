@@ -12,7 +12,7 @@ I'm from Hyderabad, India. I have done my bachelor's from CVR College of Enginee
 I would like to work as a software developer. Something interesting about me is I like to learn new things and explore new places.
 
 ## Links
-[Github](https://github.com/amulyamallepalli) 
+- [Github](https://github.com/amulyamallepalli) 
 
 ## Me
 ![Image](https://github.com/amulyamallepalli/big-data-dev/blob/main/Amulya%20Image.jpg) 
